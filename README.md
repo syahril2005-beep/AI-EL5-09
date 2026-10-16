@@ -93,4 +93,8 @@ AI-Project-Collection/
 
 ## Kontributor
 
-Repository ini dikembangkan secara kolaboratif. Setiap proyek dapat dikembangkan secara terpisah menggunakan branch Git masing-masing, kemudian digabungkan ke branch utama setelah melalui proses peninjauan.
+Repository ini dikembangkan secara kolaboratif. Setiap proyek dapat dikembangkan secara terpisah menggunakan branch Git masing-masing, kemudian digabungkan ke branch utama setelah melalui proses peninjauan. 
+
+Azkadehya Putra Mulyawan(Expert System)
+Serafino Torich Perdananta(Search Algorithm)
+Muhammad Syahril Munazir(Multi Agent System)
